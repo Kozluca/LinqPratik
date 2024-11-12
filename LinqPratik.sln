@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPratik", "LinqPratik\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPatikafy", "LinqPatikafy\LinqPatikafy.csproj", "{FB6B8DF8-7293-4D1C-B849-32B15B900B6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaFlix_Diziler", "PatikaFlix_Diziler\PatikaFlix_Diziler.csproj", "{11F77CC8-1306-4560-A8F9-5813A2C28BA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FB6B8DF8-7293-4D1C-B849-32B15B900B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB6B8DF8-7293-4D1C-B849-32B15B900B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB6B8DF8-7293-4D1C-B849-32B15B900B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F77CC8-1306-4560-A8F9-5813A2C28BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F77CC8-1306-4560-A8F9-5813A2C28BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F77CC8-1306-4560-A8F9-5813A2C28BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F77CC8-1306-4560-A8F9-5813A2C28BA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
