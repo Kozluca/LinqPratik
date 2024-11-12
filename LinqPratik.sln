@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPratik", "LinqPratik\LinqPratik.csproj", "{6C555D89-1B11-4A93-A3E7-C36C6369183F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPatikafy", "LinqPatikafy\LinqPatikafy.csproj", "{FB6B8DF8-7293-4D1C-B849-32B15B900B6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6C555D89-1B11-4A93-A3E7-C36C6369183F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C555D89-1B11-4A93-A3E7-C36C6369183F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C555D89-1B11-4A93-A3E7-C36C6369183F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6B8DF8-7293-4D1C-B849-32B15B900B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6B8DF8-7293-4D1C-B849-32B15B900B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6B8DF8-7293-4D1C-B849-32B15B900B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6B8DF8-7293-4D1C-B849-32B15B900B6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
