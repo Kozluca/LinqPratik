@@ -42,6 +42,6 @@ namespace Linq_Join
                
             }
             Console.ReadKey();
-        }
+        } 
     }
 }
